@@ -20,8 +20,9 @@
     "paths": {
       "@app/*": ["src/app/*"],
       "@config/*": ["src/config/*"],
+      "@lib/*": ["src/lib/*"],
       "@modules/*": ["src/modules/*"],
-      "@utils": ["src/utils"],
+      "@utils": ["src/utils"]
     }
   },
   "include": ["src/**/*", "test/**/*"],
